@@ -100,14 +100,14 @@ func main() {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imam.dwicaksono&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imam.dwicaksono&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imamdwicaksono&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imamdwicaksono&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=imam.dwicaksono&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=imamdwicaksono&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 </div>
 
@@ -117,7 +117,7 @@ func main() {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=imam.dwicaksono&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=imamdwicaksono&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -127,7 +127,7 @@ func main() {
 
 <div align="center">
 
-[![Imam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imam.dwicaksono&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Imam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imamdwicaksono&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -139,8 +139,8 @@ func main() {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imam.dwicaksono&repo=NAMA_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9)](https://github.com/imam.dwicaksono)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imam.dwicaksono&repo=NAMA_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9)](https://github.com/imam.dwicaksono)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imamdwicaksono&repo=mmsgi-copilot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9)](https://github.com/imam.dwicaksono)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imamdwicaksono&repo=NAMA_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9)](https://github.com/imam.dwicaksono)
 
 </div>
 
