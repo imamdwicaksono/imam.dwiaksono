@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=imam.dwicaksono&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://github.com/imam.dwicaksono">
+<a href="https://github.com/imamdwicaksono">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%9A%80;Go+%7C+Python+%7C+PHP+Laravel+%7C+Rust;Building+robust+%26+scalable+systems;Clean+Code+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
